@@ -8,6 +8,8 @@ public class Main {
         System.out.println("XYZ");
         System.out.println("123");
         System.out.println("789");
+        System.out.println("Amol");
         System.out.println("Suyog");
+
     }
 }
